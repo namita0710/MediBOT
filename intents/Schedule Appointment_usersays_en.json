@@ -1,0 +1,1969 @@
+[
+  {
+    "id": "144ccd95-84f7-4076-9b19-8dd523e513e6",
+    "data": [
+      {
+        "text": "Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Jadeja",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15b92caa-0246-472c-9771-fa957ced4502",
+    "data": [
+      {
+        "text": "Dr. Bhavna",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "033747ee-1345-42bc-a58e-29cdecb46345",
+    "data": [
+      {
+        "text": "Dr. Juneja",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bda11498-06e0-443e-8707-5578bf8e7a81",
+    "data": [
+      {
+        "text": "Dr. Ravi khatri",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52490f12-ddbe-4e4e-91e7-21f757f1c317",
+    "data": [
+      {
+        "text": "book my appointment with ",
+        "userDefined": false
+      },
+      {
+        "text": "Dr. Hitesh Desai",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a154edf-4417-444f-a98c-722c34c641f6",
+    "data": [
+      {
+        "text": "can you book my appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ed9ad9b-5d6b-4481-b923-510f1d726482",
+    "data": [
+      {
+        "text": "I want to book my appointment with ",
+        "userDefined": false
+      },
+      {
+        "text": "Dr. Bhavin Godhani",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2:30 pm",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28c9b51b-5858-4441-af60-5b37c4e30e7a",
+    "data": [
+      {
+        "text": "I want to book my appointment with dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Hitesh Desai",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2:30 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "223c79d0-23ce-4078-8956-222255a6de59",
+    "data": [
+      {
+        "text": "My phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "9898256356",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddb0ad54-50c2-41c5-9461-cda772eb373c",
+    "data": [
+      {
+        "text": "I want to book my appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "with",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 2:30 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "608cfb5f-5781-4666-8a73-5f988574bd0b",
+    "data": [
+      {
+        "text": "can you book my appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "wednesday",
+        "meta": "@day_of_week",
+        "alias": "day_of_week",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "10:30 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fda2c54c-6422-4697-8190-e18a5dcb9c5d",
+    "data": [
+      {
+        "text": "book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "07:30 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@day_of_week",
+        "alias": "day_of_week",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55aaf0bd-2b65-486d-9ac9-5a82e01167f0",
+    "data": [
+      {
+        "text": "book an appointment for 10:30am ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7262cc5d-a26b-4ffe-80bc-276bb0608da0",
+    "data": [
+      {
+        "text": "I would like to book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "3-04-2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e080eaac-e656-4b0c-b66e-76bfaae731fe",
+    "data": [
+      {
+        "text": "I would like to book an appointment for  ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4922f27-87f2-4e96-a812-ef240cbceec1",
+    "data": [
+      {
+        "text": "Can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10:15 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52c28c3d-c0d4-48f8-8dcc-75cd03239e5d",
+    "data": [
+      {
+        "text": "Can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "902ca74e-9e47-4ae2-b257-338eba5bffd3",
+    "data": [
+      {
+        "text": "Can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am on 3-04-2024",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "257491b9-fd16-4611-b69b-efcc64ab0c4a",
+    "data": [
+      {
+        "text": "Can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am on wednesday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aac9743-2dfd-4600-98cf-b4bfa9225b39",
+    "data": [
+      {
+        "text": "Book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66915451-3e55-4a83-bdcb-95d7012397be",
+    "data": [
+      {
+        "text": "I need to make an appointment.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9915d81a-c863-4ea5-890b-eb7a54b1529f",
+    "data": [
+      {
+        "text": "Can I book an appointment with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71fc7aac-ece7-4912-b5f2-4f3882a785aa",
+    "data": [
+      {
+        "text": "I\u0027d like to schedule an appointment.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5faafc2-606a-4c89-96ac-d95f6f4dc60b",
+    "data": [
+      {
+        "text": "I would like to book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c963443-b907-40ea-8e1e-b90e04c1f76b",
+    "data": [
+      {
+        "text": "set an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76d2dc9b-8614-4bfc-bbf8-46728fde06b7",
+    "data": [
+      {
+        "text": "book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f0975db-bd6c-4589-a043-1622d89c4253",
+    "data": [
+      {
+        "text": "I want to book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "8:00 pm today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6f091b3-1b23-4b09-bcf9-28858e6b82e2",
+    "data": [
+      {
+        "text": "book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "7pm today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59e8e579-f0fe-46de-9a3a-13054b946258",
+    "data": [
+      {
+        "text": "Book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "9:30 pm today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e305f40-7d85-4ac5-b14e-278e24f0a08d",
+    "data": [
+      {
+        "text": "Book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28586b4e-b8f0-4609-9e0a-03dd8f60dc55",
+    "data": [
+      {
+        "text": "Book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a37c6097-8a50-40de-95b0-60e31662db49",
+    "data": [
+      {
+        "text": "Book an appointment for today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da298ef-13c8-4b0d-a63e-7446f0358383",
+    "data": [
+      {
+        "text": "Can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10:15 am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c59040b-934c-425f-a170-a9150753fd6a",
+    "data": [
+      {
+        "text": "Can you book my appointment for 10:00 am to 10:15 am",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af2f056d-6188-42b8-ad4f-b3ca0c25a5f1",
+    "data": [
+      {
+        "text": "hello,I want to book my appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f0ff0b6-5513-4cf4-b843-95c72a2f9fc2",
+    "data": [
+      {
+        "text": "10:00 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8f61de0-d940-4b6d-8cb2-8157f36bceef",
+    "data": [
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1ebddbc-7c83-473e-82ef-04577762c00b",
+    "data": [
+      {
+        "text": "Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Hitesh Desai",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 26,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79492739-47eb-4573-b90c-9bd5b4f1b60b",
+    "data": [
+      {
+        "text": "book my appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84bc5fd2-4722-4888-be4d-c940b020eddd",
+    "data": [
+      {
+        "text": "9986826987",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c9b7b50-0099-4687-83c6-3ef7b0b19803",
+    "data": [
+      {
+        "text": "2:00 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1287df45-afb9-422b-8240-bd811b1c1efe",
+    "data": [
+      {
+        "text": "6465465465",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b77862f-d76c-44f5-825a-dbca1bde643d",
+    "data": [
+      {
+        "text": "7:00 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "310a1daf-eff1-4821-ba1d-f6291d80071d",
+    "data": [
+      {
+        "text": "9865989666",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f64c52bd-e93a-4368-b554-7e96a0135458",
+    "data": [
+      {
+        "text": "Dr. Bhavin Godhani",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 16,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18b31e7f-c202-4fbf-9439-4bbdbb01085b",
+    "data": [
+      {
+        "text": "8:00 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a129d77e-0f82-4764-b3a5-47f8bce483a9",
+    "data": [
+      {
+        "text": "5895896231",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4402361f-d0a3-4360-8403-c5739c980050",
+    "data": [
+      {
+        "text": "7897887887",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f074df78-5b7e-48ac-a93d-330283869e12",
+    "data": [
+      {
+        "text": "9865984589",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4de7084b-43fd-4caf-8ccf-fc5bbfd6e690",
+    "data": [
+      {
+        "text": "2024-03-09",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5e41bb9-96b6-4762-85eb-8117ab32ad91",
+    "data": [
+      {
+        "text": "8644455666",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fb43133-0744-4340-901c-193c0d7c1d1d",
+    "data": [
+      {
+        "text": "8866655869",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fbf181f-4277-47af-9d8e-2bac2aa3ba46",
+    "data": [
+      {
+        "text": "2024-03-08",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fb49f51-f99e-4e65-9881-6ec2ec13c355",
+    "data": [
+      {
+        "text": "8855566936",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b7b7667-805a-4e97-92dc-7aaff7f7ecfc",
+    "data": [
+      {
+        "text": "08-03-24",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1c4ab6d-07ea-4cc5-9aa5-0ba1a61d72dc",
+    "data": [
+      {
+        "text": "8788855896",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "563906ee-7a58-4270-99e9-82867b6efd28",
+    "data": [
+      {
+        "text": "775588954",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10c9c093-310c-4e69-a594-ecec50594163",
+    "data": [
+      {
+        "text": "9865984589",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b951a0a-548e-4b33-a405-69f23c17efce",
+    "data": [
+      {
+        "text": "9898562356",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1d5b87e-312e-47a4-9fb2-b3b99ee790e4",
+    "data": [
+      {
+        "text": "8866699875",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62144fee-a214-4fdb-b379-a97a66b9977e",
+    "data": [
+      {
+        "text": "9865984589",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73573780-df13-42e7-87f8-904df6d7496b",
+    "data": [
+      {
+        "text": "7:00 pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0d0ac95-dfa8-4dce-adb1-83cba4305673",
+    "data": [
+      {
+        "text": "9865989666",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e1c5dcd-cef2-44d6-a8f3-79436f3c6ba8",
+    "data": [
+      {
+        "text": "5895896231",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98896815-cdfa-4090-8c52-ce64c6d607e5",
+    "data": [
+      {
+        "text": "7897887887",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90747325-6016-45b2-b4da-47752f8c556d",
+    "data": [
+      {
+        "text": "8866655869",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80e7e9fa-f116-4c9e-9098-cadfd5bce4bc",
+    "data": [
+      {
+        "text": "Dr. Hitesh Desai",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53db1c50-4095-41a9-a874-309e85b62ea6",
+    "data": [
+      {
+        "text": "8644455666",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad39f4b7-a6fe-4cde-9c7a-dca61e91d1a4",
+    "data": [
+      {
+        "text": "08-03-24",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9160618e-eac1-4efc-a5d5-1b950973d7f4",
+    "data": [
+      {
+        "text": "2024-03-09",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9238494b-6cd7-4886-a502-0a7d659a680e",
+    "data": [
+      {
+        "text": "8644455666",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ccb1700-8f66-4baa-a1c7-af37a56a97a2",
+    "data": [
+      {
+        "text": "2024-03-08",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a366c8e7-3f2c-4a72-b21a-306dc83571fb",
+    "data": [
+      {
+        "text": "8855566936",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a87a89-12c9-4d6e-995a-3f8c31a18b43",
+    "data": [
+      {
+        "text": "8855566936",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a3dfa01-71c4-4495-b6e5-891ec4929960",
+    "data": [
+      {
+        "text": "8866622756",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5916d2d-dcbc-4141-b497-440cf1132959",
+    "data": [
+      {
+        "text": "5687888946",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87344672-1e3f-44de-88a2-1578dddcb07f",
+    "data": [
+      {
+        "text": "7566688558",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03f25392-22df-48d4-a45e-3f202bf13df5",
+    "data": [
+      {
+        "text": "2024-03-08",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c6989e2-8c3d-44a6-96e0-f25bd503f118",
+    "data": [
+      {
+        "text": "9986826987",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "084a0e10-0975-4527-b267-a978622b135e",
+    "data": [
+      {
+        "text": "2:00 pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6afd84c5-7cf9-4f6c-9ebf-bd2c4ca4e993",
+    "data": [
+      {
+        "text": "6465465465",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8322418d-eaf2-4332-8445-f02ba9ae91a4",
+    "data": [
+      {
+        "text": "I would like to book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e287f5d1-44e6-4ea4-8bec-c74562aaf491",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9aaf1a75-dba5-4d93-92db-be443769c120",
+    "data": [
+      {
+        "text": "10:30",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66694213-607b-47e9-81e9-82c29b518ed5",
+    "data": [
+      {
+        "text": "10:30",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2403d17a-9705-4c4e-9c3c-100b22862cc1",
+    "data": [
+      {
+        "text": "book my appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "04-03-2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00 am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a548891f-e133-4383-9198-a5c764467614",
+    "data": [
+      {
+        "text": "04-03-2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fcf4555-f7e6-483d-854d-c3102546faf4",
+    "data": [
+      {
+        "text": "book an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "10:30am",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "monday",
+        "meta": "@day_of_week",
+        "alias": "day_of_week",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb4bc2e5-5751-4b68-b0a2-c1513fe3711d",
+    "data": [
+      {
+        "text": "can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59820037-2cea-44d2-8d97-c1df263f179b",
+    "data": [
+      {
+        "text": "can you book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08bfeaf2-6b29-48e3-95e0-22e2ad62bde3",
+    "data": [
+      {
+        "text": "can you book your appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dcfe927-712c-4024-9157-8f3fafae2974",
+    "data": [
+      {
+        "text": "9865989666",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf4c2876-d5d0-4eca-8aab-ea17bff76e5b",
+    "data": [
+      {
+        "text": "8:00 pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e32a6f00-8c57-4331-9332-51a1d27e7120",
+    "data": [
+      {
+        "text": "5895896231",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eba1df91-a197-4fb8-a8e3-b3fe171e03ca",
+    "data": [
+      {
+        "text": "7897887887",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95677cb4-2722-4a14-91b1-5e0611db0295",
+    "data": [
+      {
+        "text": "i want to book my appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "08-03-2024.",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be818be7-c934-48c3-ac24-5d2a6386babd",
+    "data": [
+      {
+        "text": "5687888946",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74a0744a-afcb-4a84-9f1a-15c352cf6884",
+    "data": [
+      {
+        "text": "i want to book my appointment on \u003cspan class\u003d\"selection\" selection-value\u003d\"@sys.date\" selection-alias\u003d\"date\" selection-user-defined\u003d\"true\" style\u003d\"background-color: rgb(255, 253, 166);\"\u003e08-",
+        "userDefined": false
+      },
+      {
+        "text": "03",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "2024",
+        "userDefined": false
+      },
+      {
+        "text": "\u003c/span\u003e",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "030ce4c5-0c0b-4e26-abe0-35a1cbb005c5",
+    "data": [
+      {
+        "text": "775588954",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ca3498c-3b54-4978-9462-01bd513d67a6",
+    "data": [
+      {
+        "text": "I want to book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "2:00 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43a523a9-e488-44bb-864a-bd30c11fd183",
+    "data": [
+      {
+        "text": "8866655574",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62a00dca-71d7-4479-8be6-4add0aa9e415",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5b1116f-a4e5-4e25-8b98-7a0ade483c8b",
+    "data": [
+      {
+        "text": "I want to book my appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d61c599-7f84-42ec-8add-3daba85020b4",
+    "data": [
+      {
+        "text": "I want to book my appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b51710e1-8d35-4ef6-8c74-509fe05c7734",
+    "data": [
+      {
+        "text": "9865898965",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13cdfdc0-239a-4581-814a-47b321aa6ed4",
+    "data": [
+      {
+        "text": "9966657898",
+        "meta": "@sys.phone-number",
+        "alias": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdf8dbe6-4f02-4784-b6a7-ef0b44e5aa2c",
+    "data": [
+      {
+        "text": "I want to book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2a52a00-d323-42be-9129-75970ab821ee",
+    "data": [
+      {
+        "text": "2024-03-07",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45956d3a-bdc5-4683-9c11-d0e354f2df76",
+    "data": [
+      {
+        "text": "3:00 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0f758e8-85aa-4a9c-9088-23c008590916",
+    "data": [
+      {
+        "text": "9765865859",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61c57782-1588-4e41-af5a-7d99d30f75fd",
+    "data": [
+      {
+        "text": "book my appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "2:00 pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "833cee71-ea52-47df-97aa-223180202e2b",
+    "data": [
+      {
+        "text": "9966657898",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31f23786-120f-48e1-87c8-52344bcbbff5",
+    "data": [
+      {
+        "text": "9966657898",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

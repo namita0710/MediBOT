@@ -1,0 +1,190 @@
+{
+  "id": "80e39d64-584a-46a8-9ed6-c1935f7a6d2d",
+  "name": "Schedule Appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookAppointment",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bef33477-2a16-43bb-a990-34a2f2e4d3a4",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which date you would like to book an appointment?"
+            },
+            {
+              "lang": "en",
+              "value": "For what date ?"
+            },
+            {
+              "lang": "en",
+              "value": "Please tell me, for which date you would like to book an appointment?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c93763a4-860a-4796-b161-4e6f0a6e552e",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please give me time to book an appointment"
+            },
+            {
+              "lang": "en",
+              "value": "For which time you would like to book an appointment"
+            },
+            {
+              "lang": "en",
+              "value": "Please specify time to proceed with an appointment"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c24d3669-1989-4f02-a6a7-c0ba60856e87",
+          "name": "phone",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your 10 digit phone number"
+            },
+            {
+              "lang": "en",
+              "value": "Please enter your mobile number"
+            },
+            {
+              "lang": "en",
+              "value": "Please enter your contact number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e55b4bb-d0ed-4ed5-979f-39df46cda7f7",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Who would you like to schedule an appointment with?"
+            },
+            {
+              "lang": "en",
+              "value": "May I know which doctor you would like to schedule an appointment with?"
+            },
+            {
+              "lang": "en",
+              "value": "Could you tell me which doctor you\u0027d like to see?"
+            },
+            {
+              "lang": "en",
+              "value": "Who are you thinking of seeing for an appointment?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0ef84f56-40da-4ee0-b0a0-3412dde2c2bc",
+          "name": "day_of_week",
+          "required": false,
+          "dataType": "@day_of_week",
+          "value": "$day_of_week",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "28e42f9a-03aa-4258-aad7-a4c039dd709c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for booking an appointment with us, your appointment has been schedule for $time.original on $date.original",
+            "Thank you, your appointment has been scheduled for $time.original on $date.original",
+            "Thank you so much for booking an appointment with us, your appointment is scheduled  on $date.original at $time.original",
+            "Thank you so much for booking an appointment with us, your appointment is scheduled on $date.original at $time.original"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Appointment"
+    },
+    {
+      "name": "actions_intent_CONFIRMATION"
+    },
+    {
+      "name": "actions_intent_DATETIME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

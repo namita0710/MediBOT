@@ -1,0 +1,5 @@
+
+ == To insert users ==
+set @p_User_Id = 0;
+call onlineconsultation.Insert_User('john', 'JOHN@GMAIL.COM', '98689566656', '123 main streat', @p_User_Id);
+select @p_User_Id;

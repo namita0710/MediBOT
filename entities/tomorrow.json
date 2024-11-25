@@ -1,0 +1,9 @@
+{
+  "id": "b1be618c-52e9-40c3-b71f-f0aefdca1432",
+  "name": "tomorrow",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

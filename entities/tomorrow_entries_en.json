@@ -1,0 +1,8 @@
+[
+  {
+    "value": "tomorrow",
+    "synonyms": [
+      "$sys.date.now+1"
+    ]
+  }
+]

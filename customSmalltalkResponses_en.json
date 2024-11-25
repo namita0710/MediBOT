@@ -1,0 +1,128 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am Swastik hospital BOT, how can I help you with booking an appointment?",
+      "I am Swastik hospital appointment BOT. How may I help you?",
+      "I am Appointment Booking BOT for Swastik hospital, How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I am 1.5 year old",
+      "I am in young age"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Thank you, we will provide you better support next time",
+      "Sorry, we will treat you way better next time"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Yes, tell me how may I help you with the appointment booking"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Sorry. I will try to provide better support next time",
+      "Sorry. I will try to provide better support next time"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Yes, I will try to be more smart as I am gaining an experience"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you, How may I help you with an appointment booking"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I am 1.5 year old",
+      "I don\u0027t remember my birthday"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "sorry, I will try to provide you better support."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "Dr. Hitesh Desai"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "Not at all, I am always ready to help you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Yes, tell me how can I help you with appointment booking for Swastik multispecialty hospital"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "yes, I am."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thank you"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good night!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "I am an appointment scheduler BOT, how may I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am fine, how may I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Thank you for confirming for appointment booking."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "OK,Tell me at when you want to reschedule an appointment?"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "Thank you, your appointment as been canceled"
+    ]
+  }
+]
